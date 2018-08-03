@@ -1,0 +1,4 @@
+.twoflex{
+    display: flex;
+    flex-direction: row;
+}

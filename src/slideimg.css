@@ -1,0 +1,31 @@
+#parallax{
+    margin-top: 20px;
+    background-image: url('./boathouse.jpg');
+    background-attachment: fixed;
+    width: 100vw;
+    height: 90vh;
+    
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flex-container{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+#cc{
+    color: white;
+    display: flex;
+    justify-content:center;
+    align-items: center; 
+}
+.slidecontent{
+    margin-top: 10%;
+    font-size: 45px;
+}
+.slidepara{
+    margin-left:270px;
+    margin-right: 270px;
+}

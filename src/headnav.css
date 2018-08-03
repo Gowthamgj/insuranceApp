@@ -1,0 +1,13 @@
+
+#headercompo {
+    display: flex;
+    justify-content: space-around;
+}
+#navitems {
+    display: flex;
+    justify-content: space-between;
+}
+#iconsofheader{
+    display: flex;
+    justify-content: space-around;
+}
